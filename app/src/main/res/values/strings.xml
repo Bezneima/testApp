@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Testovoe4</string>
+    <string name="mainButton">Ввод</string>
+    <string name="usd">Usd</string>
+    <string name="eur">Eur</string>
+    <string name="rub">Rub</string>
+
+</resources>
