@@ -3,6 +3,5 @@
     <string name="mainButton">Ввод</string>
     <string name="usd">Usd</string>
     <string name="eur">Eur</string>
-    <string name="rub">Rub</string>
-
+    <string name="gbp">GBP</string>
 </resources>
